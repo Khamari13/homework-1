@@ -1,1 +1,2 @@
 # homework-1
+This homework assignment was mostly about learning about syntax tags. So I decided to replace some of the div tags with article and aside tags. There was also a bug in the code that broke the Search Engine header.
